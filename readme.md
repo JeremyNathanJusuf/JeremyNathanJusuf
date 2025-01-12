@@ -4,6 +4,7 @@
 A mathematics and computer science enthusiast. My passion in these fields has inspired me to further pursue the field of machine learning and artificial intelligence, a melting point between my passions. In addition to that, I believe that understanding data is key to innovation and solutions.
 
 ## Things I'm working/worked on!
+- Understanding and Implementing GANs (Dec 2024 - Jan 2025)
 - Image Captioning (Nov 2024 - Nov 2024)
 - Smart Video Synopsis (May 2024 - Aug 2024) 
 - FilTrain, MLDA Hackathon (Mar 2024 - Mar 2024)
